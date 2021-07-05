@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Volhv",
+		"unitType": "Civilian",
+		"uniqueTo": "Hyperborea",
+		"replaces": "Great General",
+		"uniques": ["Can start an [8]-turn golden age", "Bonus for units in 3 tile radius 20%", "Can construct [Citadel]",
+			"Heal adjacent units for an additional 30 HP per turn", "Great Person - [War]", "Unbuildable"],
+		"movement": 2
+	},
+]

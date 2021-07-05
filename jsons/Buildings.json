@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Pyramid of the White Sea",
+		"replaces": "Castle",
+		"cost": 120,
+		"uniqueTo": "Hyperborea",
+		"cityStrength": 10,
+		"cityHealth": 35,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Culture] from every [Ocean]"],
+		"requiredTech": "Chivalry",
+	},
+]
+		

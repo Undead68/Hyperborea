@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+	{
+		"name": "Hyperborea",
+		"leaderName": "Sudyumna Paurvashi",
+		"adjective": ["Hyperborean"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+		
+		"declaringWar": "Prepare to die, pathetic descendant!",
+		"attacked": "This will be the last days of your civilization!",
+		"defeated": "The descendants were stronger than their ancestors.Don't forget about us...",
+		"introduction": "Welcome to the realm of the Titan children, descendant!",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What did you want?",
+		"tradeRequest": "What do you think about this?",
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,0],
+		"uniqueName": "Northern ancestral home",
+		"uniques": ["[+1 Culture, +3 Production] [in capital]"],
+		"cities": ["Varanasi","Asi","Kashi","Sapha","Devgorye","Virata","Uplava","Harovo","Harovskaya bed","Harovka","Mandara","Mandarovo","Mera","Zaonejye","Gandamanda","Sagarov","Yamuna","Kuranga","Kurara","Voron","Kusumbah","Vaikanka","Trikuta","Patanga","Ruchaka","Nishahada","Snivasa","Kapila","Shanka","Vaidurya","Jarudhi","Hamsa","Rishabha","Naga","Kalangara","Narada","Sumaru","Pavana","Paratra","Kailasa"],
+		},]
